@@ -1,0 +1,7 @@
+#website-types span{
+	display: none;
+}
+
+#website-types span.active{
+	display: inline-block;
+}
